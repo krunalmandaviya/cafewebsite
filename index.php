@@ -420,7 +420,7 @@ if (empty($guestOptions)) {
     .nav-logout i { font-size: .85rem; line-height: 1; }
 
     @media (max-width: 991px) {
-      .navbar-collapse { padding: 18px 0 8px; }
+      .navbar-collapse { padding: 20px 0 8px; }
       .navbar .nav-link { margin: 7px 0; }
       .hero { min-height: 680px; height: 88svh; }
       .section-pad { padding: 80px 0; }
